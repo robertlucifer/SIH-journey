@@ -1,0 +1,165 @@
+
+
+
+.he{
+    text-align: center;
+    font-family: cursive;
+    display: block;
+    bottom: 0;
+    background-image: url(images/s1.jpeg);
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 25vh;
+}
+
+.info1 img{
+    width: 25%;
+    height: 50%;
+    vertical-align: text-top;
+    image-orientation: flip;
+    float: left;
+    padding: 5px;
+}
+.she{
+    color: white;
+    background-color: black;
+}
+col img{
+    width: 25px;
+    height: 50px;
+    vertical-align: text-top;
+    display: flex;  
+}
+.in{
+    text-align: end;
+    bottom: 0;
+    font-family: cursive;
+    font-size: 100%;
+}
+.fo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color:white ;
+    background-color: black;
+    
+}
+.she{
+        color:white ;
+        background-color: black;
+}
+.val{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+   
+
+}
+.img1{
+    float: left;
+    box-sizing: border-box;
+    margin-left: 0%;
+    margin-right: 0%;
+   
+}
+.img2{
+    float: left;
+    box-sizing: border-box;
+    margin-left: -200px;
+    margin-right: 50px;
+   
+}
+.img3{
+    float: right;
+    box-sizing: border-box;
+    margin-left: -200px;
+    margin-right: -15px;
+}
+.g1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+.gr{
+    text-align: center;
+    margin-top: 100px;
+    bottom: 0;
+    font-family: cursive;
+    font-size: x-large;
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/s2.jpeg);
+    padding: 5px;
+    overflow: hidden;
+    position: fixed;
+    background-size: cover;
+
+}
+.art{
+    margin-right: 0;
+}
+.gh img{
+    float: right;
+    margin-top: 0%;
+    
+}
+.hint{
+    font-family: cursive;
+    font-size: large;
+    text-align: left;
+}
+.te{
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 80px;
+}
+.quo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.no{
+    background-image: url(images/top.jpeg);
+    width: 100%;
+    height: 90vh;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    color: white;
+   
+}
+.of{
+    font-family: cursive;
+    font-size: x-large;
+    font-style: oblique;
+}
+.n1{
+    float: left;
+    box-sizing: border-box;
+    margin-left: 100px;
+}
+.n2{
+    float: left;
+    box-sizing: border-box;
+    margin-left: -80px;
+}
+.n3{
+    float: left;
+    box-sizing: border-box;
+    margin-left: -70px;
+}
+.n4{
+    float: left;
+    box-sizing: border-box;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.n5{
+    float: left;
+    box-sizing: border-box;
+    margin-left: -80px;
+    margin-top: 10px;
+}
+.n6{
+    float: left;
+    box-sizing: border-box;
+    margin-left: 5px;
+    margin-top: 10px;
+}
